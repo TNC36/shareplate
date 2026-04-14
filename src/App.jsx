@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import TopNav from "./components/TopNav.jsx";
+import TopNav from "./TopNav.jsx";
 import ClaimLookupPage from "./pages/ClaimLookupPage";
 import DonorPage from "./pages/DonorPage";
 import HomePage from "./pages/HomePage";
