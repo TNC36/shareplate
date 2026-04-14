@@ -1,6 +1,7 @@
 # SharePlate
 
 Real-time surplus food redistribution app for hackathons and portfolio demos.
+live at https://shareplate-54w6stav4-tnc36s-projects.vercel.app/
 
 ## What Is Built
 
